@@ -134,10 +134,10 @@ Também é necessário ter o Back-end configurado e em execução para utilizar 
 ### 1. Clone o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO_FRONTEND
+git clone https://github.com/Eliassilva98/bank-dashboard-frontend.git
 ```
 
-Substitua `URL_DO_REPOSITORIO_FRONTEND` pelo endereço HTTPS do repositório no GitHub.
+Substitua `https://github.com/Eliassilva98/bank-dashboard-frontend.git` pelo endereço HTTPS do repositório no GitHub.
 
 ### 2. Acesse a pasta
 
