@@ -2,6 +2,10 @@
 
 Interface de uma aplicação bancária desenvolvida com **React 19**, **JavaScript** e **Vite**, integrada a uma API REST para simulação de operações financeiras.
 
+## Demonstração
+
+![Demonstração do Bank Dashboard em funcionamento](./public/bank-dashboard-demonstracao.gif)
+
 ## Sobre o projeto
 
 O **Bank Dashboard** é uma aplicação bancária Full-Stack que simula operações financeiras, incluindo cadastro de usuários, autenticação, recuperação de senha por e-mail, depósitos, transferências e consulta de extrato.
